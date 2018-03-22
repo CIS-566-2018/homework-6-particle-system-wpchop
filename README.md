@@ -6,6 +6,8 @@
 
 [live demo](https://wpchop.github.io/homework-6-particle-system-wpchop/)
 
+![](bunny.png)
+
 **Goal:** to make physics-based procedural animation of particles and to practice using OpenGL's instanced rendering system.
 
 **Inspiration:** DMD and CGGT alumnus Nop Jiarathanakul's [Particle Dream application](http://www.iamnop.com/particles/).
